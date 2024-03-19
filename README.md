@@ -3,4 +3,4 @@
 - Imágenes creadas con los grafos generados, 18 en total. Se sugiere utilizar Gephi (https://gephi.org/).
 
 
-![Malla de  30 nodos](https://github.com/GusRojas/ProyetoGrafosDAA_A24/blob/main/Imagenes/malla30.png)
+![Malla de  30 nodos](/main/Imagenes/malla30.png)
